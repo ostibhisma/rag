@@ -1,0 +1,28 @@
+# Company Overview: NexusTech Solutions
+NexusTech Solutions was founded in 2020 with the vision of revolutionizing enterprise automation.
+Our mission is to build intelligent systems that augment human capabilities in the workplace.
+
+# Locations and Offices
+Our global headquarters is located in Copenhagen, Denmark.
+We also have a major R&D facility in Austin, Texas, USA, focused entirely on edge computing and IoT.
+The European support center operates out of Berlin, Germany, handling all Tier 1 and Tier 2 customer tickets.
+
+# Products and Services
+Our flagship product, "NexusFlow-X1", is a workflow automation engine.
+We also offer a specialized AI suite called "CognitiveBridge". It helps businesses integrate Large Language Models into their legacy systems.
+For hardware, we produce the "EdgeNode-77A", a ruggedized computing unit for industrial environments.
+
+# Internal Departments
+The Artificial Intelligence team works heavily on machine learning, natural language processing, and retrieval augmented generation.
+Our Infrastructure division is responsible for cloud deployments and Kubernetes cluster management.
+The Sales and Marketing team, led by VP Sarah Jenkins, focuses on B2B enterprise software acquisitions.
+
+# Company Policies
+Employees are entitled to 25 days of paid vacation per year.
+The remote work policy, updated in 2023, allows staff to work from home up to 3 days a week.
+Expense reports for travel must be submitted via the internal portal "SpendTrack" within 14 days of returning.
+
+# Financials and Growth
+In Q4 2023, the company reported a record revenue of $45 million.
+The company currently has exactly 142 employees worldwide.
+We recently secured a Series B funding round of $20 million led by Nordic Ventures.
